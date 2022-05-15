@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1> User is: </h1>
+<h2>{{request.user}}</h2>
+
+{{ my_html|safe }}
+
+<p>
+{{ num }} {{ one }}
+</p>
+
+<p>
+	{{ list }}
+</p>
+
+<ul>
+{% for item in list %}
+	{% if item == 1 %}
+		<li> {{ forloop.counter }} - {{ item|add:9 }} </li>
+	{% elif item == 2 %}
+		<li> {{ forloop.counter }} - {{ item|add:8 }} </li>
+	{% else %}
+		<li> {{ forloop.counter }} - {{ item }} </li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+{% endblock %}
