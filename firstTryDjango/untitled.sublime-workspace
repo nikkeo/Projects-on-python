@@ -1,0 +1,598 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"method"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"prod",
+				"prodCreation"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"h",
+				"HttpResponse"
+			],
+			[
+				"Decima",
+				"DecimalField"
+			],
+			[
+				"co",
+				"CountWeight"
+			],
+			[
+				"type",
+				"typename"
+			],
+			[
+				"end",
+				"endIndex_"
+			],
+			[
+				"ge",
+				"GetEndIndex"
+			],
+			[
+				"gete",
+				"GetEndIndex"
+			],
+			[
+				"gets",
+				"GetStartIndex"
+			],
+			[
+				"S",
+				"size"
+			],
+			[
+				"is",
+				"is_partitioned"
+			],
+			[
+				"start",
+				"startIndex_"
+			],
+			[
+				"getsta",
+				"GetStartIndex"
+			],
+			[
+				"Getst",
+				"GetStartIndex"
+			],
+			[
+				"buf",
+				"buffer"
+			],
+			[
+				"Add",
+				"AddBegin"
+			],
+			[
+				"sta",
+				"startIndex_"
+			],
+			[
+				"b",
+				"buffer"
+			],
+			[
+				"be",
+				"GetBegin"
+			],
+			[
+				"add",
+				"AddEnd"
+			],
+			[
+				"print",
+				"print_me"
+			],
+			[
+				"e",
+				"end"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"pr",
+				"previous"
+			],
+			[
+				"get",
+				"GetEnd"
+			],
+			[
+				"del",
+				"DelEnd"
+			],
+			[
+				"s",
+				"size_"
+			],
+			[
+				"G",
+				"GetEnd"
+			],
+			[
+				"Ge",
+				"GetEnd"
+			],
+			[
+				"Get",
+				"GetStart"
+			],
+			[
+				"ad",
+				"AddStart"
+			],
+			[
+				"i",
+				"ifHamiltonianPath"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"str",
+				"strong_components"
+			],
+			[
+				"Ger",
+				"GetFreeSpace"
+			],
+			[
+				"do",
+				"dop_used"
+			],
+			[
+				"po",
+				"polyhedron"
+			],
+			[
+				"com",
+				"communion"
+			],
+			[
+				"g",
+				"getB"
+			],
+			[
+				"pol",
+				"polyline"
+			],
+			[
+				"as",
+				"assignmentB"
+			],
+			[
+				"si",
+				"sumOfAria"
+			],
+			[
+				"sum",
+				"sumOfAria"
+			],
+			[
+				"re",
+				"reassignment"
+			],
+			[
+				"for",
+				"forCopy"
+			],
+			[
+				"ve",
+				"ve_"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/products/views.py",
+			"settings":
+			{
+				"buffer_size": 1142,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/forms.py",
+			"settings":
+			{
+				"buffer_size": 522,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/products/models.py",
+			"settings":
+			{
+				"buffer_size": 339,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nikkeo/dev/firstTry",
+		"/Users/nikkeo/dev/firstTry/src",
+		"/Users/nikkeo/dev/firstTry/src/products",
+		"/Users/nikkeo/dev/firstTry/src/products/templates",
+		"/Users/nikkeo/dev/firstTry/src/products/templates/product"
+	],
+	"file_history":
+	[
+		"/Users/nikkeo/dev/firstTry/src/firstOne/settings.py",
+		"/Users/nikkeo/dev/firstTry/src/firstOne/urls.py",
+		"/Users/nikkeo/dev/firstTry/src/products/forms.py",
+		"/Users/nikkeo/dev/firstTry/src/products/views.py",
+		"/Users/nikkeo/dev/firstTry/src/products/templates/product/create.html",
+		"/Users/nikkeo/dev/firstTry/src/products/models.py",
+		"/Users/nikkeo/dev/firstTry/src/templates/sasha.html",
+		"/Users/nikkeo/dev/firstTry/src/templates/nav_bar.html",
+		"/Users/nikkeo/dev/firstTry/src/templates/kamila.html",
+		"/Users/nikkeo/dev/firstTry/src/templates/h1.html",
+		"/Users/nikkeo/dev/firstTry/src/templates/base.html",
+		"/Users/nikkeo/dev/firstTry/src/pages/templates/sasha.html",
+		"/Users/nikkeo/dev/firstTry/src/pages/templates/nav_bar.html",
+		"/Users/nikkeo/dev/firstTry/src/pages/templates/kamila.html",
+		"/Users/nikkeo/dev/firstTry/src/pages/templates/h1.html",
+		"/Users/nikkeo/dev/firstTry/src/pages/templates/base.html",
+		"/Users/nikkeo/dev/firstTry/src/templates/product/detail.html",
+		"/Users/nikkeo/dev/firstTry/src/products/templates/product/detail.html",
+		"/Users/nikkeo/dev/firstTry/src/templates/product:detail.html",
+		"/Users/nikkeo/dev/firstTry/src/templates/detail.html",
+		"/Users/nikkeo/dev/firstTry/src/pages/views.py",
+		"/Users/nikkeo/dev/firstTry/src/templates/ex.html",
+		"/Users/nikkeo/dev/firstTry/src/templates/newone.html",
+		"/Users/nikkeo/dev/firstTry/src/templates/untitled",
+		"/Users/nikkeo/dev/firstTry/src/products/admin.py",
+		"/Users/nikkeo/dev/firstTry/src/admin.py",
+		"/Users/nikkeo/dev/firstTry/src/prodacts/models.py",
+		"/Users/nikkeo/dev/firstTry/src/db.sqlite3",
+		"/Users/nikkeo/dev/firstTry/src/prod/models.py",
+		"/Users/nikkeo/github/Algorithms_And_Data_Structure/lab10/B/spantree.out",
+		"/Users/nikkeo/github/Algorithms_And_Data_Structure/lab10/B/spantree.in",
+		"/Users/nikkeo/github/Algorithms_And_Data_Structure/lab10/B/main.cpp",
+		"/Users/nikkeo/github/Algorithms_And_Data_Structure/lab10/C/spantree3.out",
+		"/Users/nikkeo/github/Algorithms_And_Data_Structure/lab10/C/spantree3.in",
+		"/Users/nikkeo/github/Algorithms_And_Data_Structure/lab10/C/main.cpp",
+		"/Users/nikkeo/CLionProjects/lab2/main1.cpp",
+		"/Users/nikkeo/CLionProjects/main/lab3/main.cpp",
+		"/Users/nikkeo/Downloads/Telegram Desktop/EE.cpp",
+		"/Users/nikkeo/Downloads/Telegram Desktop/MyIterator.h",
+		"/Users/nikkeo/github/c++_Projects/Circular_Buffer_With_Auto_Data/main.cpp",
+		"/Users/nikkeo/CLionProjects/lab2/game.in",
+		"/Users/nikkeo/CLionProjects/lab2/main.cpp",
+		"/Users/nikkeo/github/c++_Projects/Exchange_Rates_Utility/README.md",
+		"/Users/nikkeo/github/C_Projects/lab5/main.c",
+		"/Users/nikkeo/CLionProjects/lab2/game.out",
+		"/Users/nikkeo/CLionProjects/lab2/hamiltonian.out",
+		"/Users/nikkeo/CLionProjects/lab2/hamiltonian.in",
+		"/Users/nikkeo/CLionProjects/lab2/cond.out",
+		"/Users/nikkeo/CLionProjects/lab2/cond.in",
+		"/Users/nikkeo/CLionProjects/Lab1Proga/main.cpp",
+		"/Users/nikkeo/CLionProjects/lab2/bipartite.in",
+		"/Users/nikkeo/CLionProjects/lab2/cycle.in",
+		"/Users/nikkeo/CLionProjects/Lab2Proga/main.cpp",
+		"/Users/nikkeo/CLionProjects/Lab1COnt/main.cpp",
+		"/Users/nikkeo/CLionProjects/lab2/main",
+		"/Users/nikkeo/CLionProjects/lab2/untitled",
+		"/Users/nikkeo/CLionProjects/main/lab 1/1.1/main.cpp"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"to"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/nikkeo/dev/firstTry"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/products/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/products/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/products/models.py",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 97.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 29.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
