@@ -1,13 +1,7 @@
 import pygame
 import random
 import os
-
-WIDTH, HEIGHT = 1000, 800
-FPS = 60
-ENEMY_SPEED = 3
-SIZE = (30, 30)
-BLUE = (0, 0, 255)
-ZERO = 0
+from businessLogic.consts import *
 
 
 class Enemy(pygame.sprite.Sprite):

@@ -1,9 +1,12 @@
 import pygame
 from businessLogic.game import game
-from database.database_config import database_config
+from database.databaseManager import databaseManager
 
 pygame.init()
+dbmanager = databaseManager()
 
-database_config()
+dbmanager.create_table()
 
 game()
+
+dbmanager.close_connection()

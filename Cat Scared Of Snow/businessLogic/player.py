@@ -1,12 +1,7 @@
 import os
 import pygame
+from businessLogic.consts import *
 
-WIDTH, HEIGHT = 1000, 800
-FPS = 60
-PLAYER_SPEED = 5
-SIZE = (50, 50)
-RED = (255, 0, 0)
-ZERO = 0
 
 class Player(pygame.sprite.Sprite):
     def __init__(self):
